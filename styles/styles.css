@@ -1,0 +1,78 @@
+/* BASE --------------------------------------- */
+
+body {
+  padding: 16px;
+}
+
+.grid-a {
+  display: grid;
+  gap: 16px;
+  overflow-x: auto;
+}
+
+.cell-a { grid-area: a; }
+.cell-b { grid-area: b; }
+.cell-c { grid-area: c; }
+.cell-d { grid-area: d; }
+.cell-e { grid-area: e; }
+.cell-f { grid-area: f; }
+
+/* EXTRA SMALL -------------------------------- */
+
+@media (min-width: 0) {
+  .grid-a {
+    grid:
+      "a" auto
+      "b" auto
+      "c" auto
+      "d" auto
+      "e" auto
+      "f" auto
+      / 1fr;
+  }
+}
+
+/* SMALL -------------------------------------- */
+
+/* @media (min-width: 576px) {} */
+
+/* MEDIUM ------------------------------------- */
+
+@media (min-width: 768px) {
+  .grid-a {
+    grid:
+      "a a" auto
+      "b c" auto
+      "d e" auto
+      "f f" auto
+      / 1fr 1fr;
+  }
+}
+
+/* LARGE -------------------------------------- */
+
+@media (min-width: 992px) {
+  .grid-a {
+    grid:
+      "a a a a a a" auto
+      "b b c c d d" auto
+      "e e e f f f" auto
+      / 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}
+
+/* EXTRA LARGE -------------------------------- */
+
+@media (min-width: 1200px) {
+}
+
+/* EXTRA EXTRA LARGE -------------------------- */
+
+@media (min-width: 1400px) {
+  .grid-a {
+    grid:
+      "a a a a a" auto
+      "b c d e f" auto
+      / 1fr 1fr 1fr 1fr 1fr;
+  }
+}
