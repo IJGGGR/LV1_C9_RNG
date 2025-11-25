@@ -1,29 +1,154 @@
 {
-    "students": [
-        {
-            "firstName": "Harry",
-            "lastName": "Potter",
-            "house": "Gyffindor"
-        },
-        {
-            "firstName": "Hermione",
-            "lastName": "Grander",
-            "house": "Gryffindor"
-        },
-        {
-            "firstName": "Ron",
-            "lastName": "Weasley",
-            "house": "Gryffindor"
-        },
-        {
-            "firstName": "Draco",
-            "lastName": "Malfoy",
-            "house": "Slytherin"
-        },
-        {
-            "firstName": "Luna",
-            "lastName": "Lovegood",
-            "house": "Ravenclaw"
-        }
-    ]
+  "members": [
+    {
+      "firstName": "Arianna",
+      "lastName": "Huntley",
+      "schoolEmail": "ahuntley@codestack.co",
+      "personalEmail": "clair10022004@gmail.com"
+    },
+    {
+      "firstName": "Brandon",
+      "lastName": "Estrada",
+      "schoolEmail": "bestrada@codestack.co",
+      "personalEmail": "bestrada8800@gmail.com"
+    },
+    {
+      "firstName": "Brandon",
+      "lastName": "Van Horn",
+      "schoolEmail": "bvanhorn@codestack.co",
+      "personalEmail": "bmdvanhorn@icloud.com"
+    },
+    {
+      "firstName": "Bryce",
+      "lastName": "Mack",
+      "schoolEmail": "bmack@codestack.co",
+      "personalEmail": "brycewmack50@outlook.com"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Lopez",
+      "schoolEmail": "clopez@codestack.co",
+      "personalEmail": "carlos.lopez5639@gmail.com"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Herrera",
+      "schoolEmail": "dherrera@codestack.co",
+      "personalEmail": "dherr929@gmail.com"
+    },
+    {
+      "firstName": "Darcy",
+      "lastName": "Rose",
+      "schoolEmail": "drose@codestack.co",
+      "personalEmail": "darcy.ophelia.rose@gmail.com"
+    },
+    {
+      "firstName": "Eliasaf",
+      "lastName": "Gonzalez",
+      "schoolEmail": "n/a",
+      "personalEmail": "eliasafgonzalez0@gmail.com"
+    },
+    {
+      "firstName": "Gavin",
+      "lastName": "Tristan",
+      "schoolEmail": "gtristan@codestack.co",
+      "personalEmail": "gaqtristan@gmail.com"
+    },
+    {
+      "firstName": "Isaias",
+      "lastName": "Gonzalez",
+      "schoolEmail": "igonzalez@codestack.co",
+      "personalEmail": "ijgggr@gmail.com"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Blackwell",
+      "schoolEmail": "jblackwell@codestack.co",
+      "personalEmail": "bwelljames@gmail.com"
+    },
+    {
+      "firstName": "Jesus",
+      "lastName": "Salgado",
+      "schoolEmail": "jsalgado@codestack.co",
+      "personalEmail": "jesussalgado9040@gmail.com"
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Duarte",
+      "schoolEmail": "jduarte@codestack.co",
+      "personalEmail": "Duartemjoseph@gmail.com"
+    },
+    {
+      "firstName": "Kellen",
+      "lastName": "Dixon",
+      "schoolEmail": "kdixon@codestack.co",
+      "personalEmail": "kellendixon2007@gmail.com"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Guptill",
+      "schoolEmail": "lguptil@codestack.co",
+      "personalEmail": "fabledparadox@gmail.com"
+    },
+    {
+      "firstName": "Nicolas",
+      "lastName": "Gonzaba",
+      "schoolEmail": "ngonzaba@codestack.co",
+      "personalEmail": "NicolasGonzaba1@gmail.com"
+    },
+    {
+      "firstName": "Pallavi",
+      "lastName": "Pattanashetti",
+      "schoolEmail": "ppattanashetti@codestack.co",
+      "personalEmail": "Pallavi.Pattanashetti@gmail.com"
+    },
+    {
+      "firstName": "Rizwan",
+      "lastName": "Mehmoo",
+      "schoolEmail": "n/a",
+      "personalEmail": "rm.pkusa@gmail.com"
+    },
+    {
+      "firstName": "Sammer",
+      "lastName": "Saqa",
+      "schoolEmail": "ssaqa@codestack.co",
+      "personalEmail": "sammersaqa@gmail.com"
+    },
+    {
+      "firstName": "Vanessa",
+      "lastName": "Acuna",
+      "schoolEmail": "vacuna@codestack.com",
+      "personalEmail": "vanessa.acuna98@gmail.com"
+    },
+    {
+      "firstName": "Xavier",
+      "lastName": "Jacques",
+      "schoolEmail": "xjacques@codestack.co",
+      "personalEmail": "xavierjacques2442@gmail.com"
+    },
+    {
+      "firstName": "Kenneth",
+      "lastName": "Martinez",
+      "schoolEmail": "kmartinez@codestack.co",
+      "personalEmail": "kmartinez@sjcoe.net"
+    },
+    {
+      "firstName": "Isaiah",
+      "lastName": "Ferguson",
+      "schoolEmail": "iferguson@codestack.co",
+      "personalEmail": "ifergusonIII@sjcoe.net"
+    },
+    {
+      "firstName": "Jose",
+      "lastName": "Martinez",
+      "schoolEmail": "jmartinez@codestack.co",
+      "personalEmail": "jmartinez@sjcoe.net"
+    },
+    {
+      "firstName": "Jacob",
+      "lastName": "Dekok",
+      "schoolEmail": "jdekok@codestack.co",
+      "personalEmail": "jdekok@sjcoe.net"
+    }
+  ]
 }
